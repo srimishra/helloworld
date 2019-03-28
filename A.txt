@@ -1,0 +1,6 @@
+class A{
+Public static void main(String Args[])
+{
+System.out.println("Iam saswati");
+}
+}
